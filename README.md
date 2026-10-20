@@ -85,3 +85,10 @@ flowchart LR
 
 - **Synthesis:** Designed for synthesis targeting Xilinx Spartan / Artix FPGA architectures.
 - **Simulation:** Modelsim / Icarus Verilog compatible.
+
+---
+
+## 👨‍💻 Author & Connect
+
+Developed by **[Kshitij Garg](https://github.com/kshitij-garg)**  
+💼 **LinkedIn:** [linkedin.com/in/garg-kshitij](https://in.linkedin.com/in/garg-kshitij)
