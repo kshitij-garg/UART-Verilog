@@ -1,11 +1,16 @@
 # UART Transceiver & Hardware SHA-1 Cryptographic Core in Verilog
 
 [![Language](https://img.shields.io/badge/Language-Verilog%20HDL-blue.svg)](#)
+[![Live Simulator](https://img.shields.io/badge/Live_Simulator-Try_In_Browser-00E5FF.svg)](https://kshitij-garg.github.io/#uart)
 [![Target](https://img.shields.io/badge/Target-FPGA%20%7C%20ASIC%20Synthesizable-brightgreen.svg)](#)
 [![Protocol](https://img.shields.io/badge/Protocol-RS232%20UART%20%28Full--Duplex%29-orange.svg)](#)
 [![Crypto](https://img.shields.io/badge/Cryptography-SHA--1%20Hardware%20Pipeline-red.svg)](#)
 
 A synthesizable, hardware-efficient implementation of a **full-duplex UART (Universal Asynchronous Receiver-Transmitter)** module coupled with an on-chip **SHA-1 hardware cryptographic hashing accelerator**, designed and simulated in Verilog HDL.
+
+> ⚡ **Interactive Hardware Waveform & Cryptographic Visualizer:**  
+> Simulate physical RS-232 bitstream pulse waveforms, clock-by-clock UART receiver FSM state progression, and 80-round SHA-1 hash register computation live in your browser:  
+> **👉 [https://kshitij-garg.github.io/#uart](https://kshitij-garg.github.io/#uart)** (or [Standalone Full-screen](https://kshitij-garg.github.io/uart-simulator/))
 
 ---
 
